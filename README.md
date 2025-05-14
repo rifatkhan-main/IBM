@@ -1,4 +1,4 @@
-IBM
+## IBM ## 
 This repository contains coursework and project materials related to IBM's Data Science Professional Certificate program. It includes a final assignment notebook and a PDF detailing a technology trends dashboard.
 
 Contents
